@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: aqua;
+    background-color: royalblue;
 }
 
 button {
@@ -20,7 +20,7 @@ button {
 
 .fondo-rojo{background: red;}
 
-.margen-arriba{margin-top: 10px;}
+.margen-arriba{margin-top: 20px;}
 
 p span{color: red;}
 
@@ -37,20 +37,20 @@ p span{color: red;}
     width: 100px;
     height: 100px;
     margin: 10px;
-    background-color: blue;
+    background-color: yellowgreen;
     position: relative;
-    left: 150px;
-    top: 50px;
+    left: 250px;
+    top: 80px;
 }
 
 .cuadrado-absoluto {
     width: 100px;
     height: 100px;
     margin: 10px;
-    background-color: blue;
+    background-color: yellow;
     position: absolute;
-    left: 150px;
-    top: 50px;
+    left: 580px;
+    top: 40px;
 }
 
 .cuadrado-flotante {
